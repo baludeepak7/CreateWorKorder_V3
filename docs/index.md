@@ -47,3 +47,25 @@ first one in the list.*[[]{#_Toc256000916
   MessageID              string
 
 ### Response
+
+**Parameter**                        **Description**
+  ------------------------------------ ----------------------------------------------------------------------------------------------------------------------
+  orderNumber                          A number that uniquely identifies a CustomerOrder within the ordering Customer’s enterprise. Example Value:104118503
+  ProratedAmount.amount                The quantity of money (positive or negative) represented as floating point number.
+  ProratedAmount.currency              Currency generally accepted form of money.
+  changeAmount.amount                  The quantity of money (positive or negative) represented as floating point number.
+  changeAmount.currency                Currency generally accepted form of money.
+  monthlyAmount.amount                 The quantity of money (positive or negative) represented as floating point number.
+  monthlyAmount.currency               Currency generally accepted form of money.
+  totalOneOffCharge.amount             The quantity of money (positive or negative) represented as floating point number.
+  totalOneOffCharge.currency           Currency generally accepted form of money.
+  totalMonthlyServiceAmount.amount     The quantity of money (positive or negative) represented as floating point number.
+  totalMonthlyServiceAmount.currency   Currency generally accepted form of money.
+  Campaign.amount                      The quantity of money (positive or negative) represented as floating point number.
+  campaign.currency                    Currency generally accepted form of money.
+  postCampaignAmount.amount            The quantity of money (positive or negative) represented as floating point number.
+  postCampaignAmount.currency          Currency generally accepted form of money.
+  installAmount.amount                 The quantity of money (positive or negative) represented as floating point number.
+  installAmount.currency               Currency generally accepted form of money.
+  workOrderPoints                      Number of work order points to fullfill the workorder
+
