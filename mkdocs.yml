@@ -1,0 +1,9 @@
+site_name: 'CreateWorkOrder_V3'
+repo_url: https://github.com/baludeepak7/CreateWorKorder_V3
+edit_uri: edit/main/docs
+
+nav:
+  - Home: index.md
+  
+plugins:
+  - techdocs-core
