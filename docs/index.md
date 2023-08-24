@@ -46,7 +46,7 @@ first one in the list.*[[]{#_Toc256000916
   RequestID              string
   MessageID              string
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   **Parameter**                                                          **Description**
   ---------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   CreateWorkOrderRequest.accountIdentification.accountNumer              A unique service account identifier may only be unique with the combination of service address and site Reference, Account number is a unique identifier representing the customer account. Example Value:104118503
@@ -90,5 +90,15 @@ first one in the list.*[[]{#_Toc256000916
   CreateWorkOrderRequest.workOrderHeader.prorateWorkOrder                Flag to indicate if work order being created is a prorate work order request
 
   CreateWorkOrderRequest.workOrderHeader.consumerReference               Order identifier given to the order by the consumer.
-                              
 
+  CreateWorkOrderRequest.serviceCategory                                 
+
+  CreateWorkOrderRequest.appointment                                     
+
+  CreateWorkOrderRequest.oneTimeService                                  
+
+  CreateWorkOrderRequest.Questionnaire                                   
+
+  CreateWorkOrderRequest.telephoneServiceSwap                            
+
+  CreateWorkOrderRequest.CSSDetails                                      
