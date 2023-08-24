@@ -69,8 +69,7 @@ first one in the list.*[[]{#_Toc256000916
   installAmount.currency               Currency generally accepted form of money.
   workOrderPoints                      Number of work order points to fullfill the workorder
 
-  Error response
---------------
+### Error Response
 
   **Type**   **Code**   **Description**            **Severity**   **Source System**
   ---------- ---------- -------------------------- -------------- -------------------
