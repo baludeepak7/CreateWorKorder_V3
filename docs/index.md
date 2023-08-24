@@ -69,3 +69,13 @@ first one in the list.*[[]{#_Toc256000916
   installAmount.currency               Currency generally accepted form of money.
   workOrderPoints                      Number of work order points to fullfill the workorder
 
+  Error response
+--------------
+
+  **Type**   **Code**   **Description**            **Severity**   **Source System**
+  ---------- ---------- -------------------------- -------------- -------------------
+  SYSTEM     2020       Unexpected Error           CRITICAL       SERVICE
+  BUSINESS   10007      Schema Validation Error    CRITICAL       SERVICE
+  BUSINESS   10465      ICOMS Business Exception   CRITICAL       SERVICE
+  SYSTEM     10466      ICOMS System Exception     CRITICAL       SERVICE
+
