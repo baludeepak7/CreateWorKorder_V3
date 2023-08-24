@@ -90,16 +90,5 @@ first one in the list.*[[]{#_Toc256000916
   CreateWorkOrderRequest.workOrderHeader.prorateWorkOrder                Flag to indicate if work order being created is a prorate work order request
 
   CreateWorkOrderRequest.workOrderHeader.consumerReference               Order identifier given to the order by the consumer.
-
-  CreateWorkOrderRequest.serviceCategory                                 
-
-  CreateWorkOrderRequest.appointment                                     
-
-  CreateWorkOrderRequest.oneTimeService                                  
-
-  CreateWorkOrderRequest.Questionnaire                                   
-
-  CreateWorkOrderRequest.telephoneServiceSwap                            
-
-  CreateWorkOrderRequest.CSSDetails                                      
+                              
 
